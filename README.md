@@ -1,13 +1,13 @@
 # Informa_Laboratorio-7
 
-# Universidad de las Fuerzas Armadas ESPE
+# Universidad de las Fuerzas Armadas ESPE    
 Integrante: Josue Pillajo
 
 NRC: 5406
 
 Docente: Ing. Darwin Alulema
 
-Tema:  INDUCTOR Y  CAPICITOR 
+Tema:  INDUCTOR Y CAPACITOR.
 
 # 1. OBJETIVOS
 
