@@ -1,3 +1,4 @@
+
 # Informa_Laboratorio-7
 
 # Universidad de las Fuerzas Armadas ESPE    
@@ -80,6 +81,47 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 ![figu2](https://user-images.githubusercontent.com/84783236/131421613-8c9f06bc-9995-4f08-8a93-8819207c4e22.png)
 
 # Con 0 Hz
+
+![2 osci 0 hz](https://user-images.githubusercontent.com/84783236/131426862-af98be19-a450-47ae-8d94-9dbb387711eb.png)
+![2 mult 0V](https://user-images.githubusercontent.com/84783236/131426930-0976e8c2-562f-4b8b-9c68-d74fda090a00.png)
+![2 mult 0A](https://user-images.githubusercontent.com/84783236/131426933-9cecdf22-d6f5-4735-a7d7-0f13e5e8a518.png)
+
+# Con 10 Hz
+
+![2 osci 10 hz](https://user-images.githubusercontent.com/84783236/131426997-2015dadd-a394-4eb7-bcf0-1fc0fc4d465e.png)
+![2 mult 10V](https://user-images.githubusercontent.com/84783236/131427012-8836fe4d-418c-4f51-b3a1-172c9ce0e70c.png)
+![2 mult 10A](https://user-images.githubusercontent.com/84783236/131427079-4398158d-9695-4252-a853-a1f0167f10fa.png)
+
+# Con 50 Hz
+
+![2 osci 50 hz](https://user-images.githubusercontent.com/84783236/131427107-a937632b-2103-4b15-b973-d850dfe99d1f.png)
+![2 mult 50V](https://user-images.githubusercontent.com/84783236/131427122-7ea223c4-a64b-4229-bac9-c3de7db517e7.png)
+![2 mult 50A](https://user-images.githubusercontent.com/84783236/131427135-42673a39-537a-475e-9f5b-b466ba55dcaa.png)
+
+# Con 100 Hz
+
+![2 osci 100 hz](https://user-images.githubusercontent.com/84783236/131427507-a7d2c934-9e5d-45dc-a669-cdad98eb4c15.png)
+![2 mult 100V](https://user-images.githubusercontent.com/84783236/131427516-33712ed2-5466-4df0-9e32-c333867eceae.png)
+![2 mult 100A](https://user-images.githubusercontent.com/84783236/131427537-dade81e8-8c84-438d-94fe-7401b2dc4a86.png)
+
+# Con 500 Hz
+
+![2 osci 500 hz](https://user-images.githubusercontent.com/84783236/131427562-d03ab0b9-bd2b-4c74-8559-a0abcc812fd1.png)
+![2 mult 500V](https://user-images.githubusercontent.com/84783236/131427572-145743e7-d9f2-4eed-8c19-cb84aab303f4.png)
+![2 mult 500A](https://user-images.githubusercontent.com/84783236/131427582-4dbf2390-0202-4a2a-8cf5-cd2cdd6019c7.png)
+
+# Con 1000 Hz
+
+![2 osci 1000 hz](https://user-images.githubusercontent.com/84783236/131427597-1a79e99a-0bb5-489e-b9c2-80e9a7d0f9e4.png)
+![2 mult 1000V](https://user-images.githubusercontent.com/84783236/131427606-ddb822bb-f07d-4c8a-b389-d0f3ac36a837.png)
+![2 mult 1000A](https://user-images.githubusercontent.com/84783236/131427618-6203b884-f070-4087-ab72-591ded7c90fb.png)
+
+# 4. ANALSIS DEL PROBLEMA Y RESPUESTA A INTERROGANTES
+
+
+
+
+
 
 
 
