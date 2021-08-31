@@ -118,6 +118,47 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 
 # 4. ANALSIS DEL PROBLEMA Y RESPUESTA A INTERROGANTES
 
+![TABLA 1](https://user-images.githubusercontent.com/84783236/131428974-dcf8dec2-2226-4c59-8618-c01c054f5cbd.png)
+
+Podemos observar que  mientras aumentamos la frecuencia  se aumenta  la corriente y disminuye  la tención en Vo.
+
+![TABLA 2](https://user-images.githubusercontent.com/84783236/131429082-1832c2fe-ad28-4909-8ce1-94f4c7961f6b.png)
+
+Podemos observar que  aumenta la  tensión y disminuye  la corriente en Vo
+
+4.2 PREGUNTAS
+1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+El capacitor no permite el paso de corriente, por lo tanto  la bobina y el capacitor generan un cortocircuito.
+2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna? 
+En la bobina en cambio la corriente disminuira y el voltaje aumentara para oponerse a dicha disminucion la corriente varia por lo que hay autoinduccion
+3.- ¿Qué cree usted que ocurriría con el voltaje V0 y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+
+4.- ¿Qué son los valores eficaces de voltaje y corriente? 
+seria el valor que tiene una corriente continua para que produsca  la misma potencia .
+
+# 5. VIDEO
+
+
+
+# 6. COCLUSIONES
+
+Se concluyo que a medida que la señal de frecuencia va en aumento o en deceso, los valores de la constante de tiempo y del voltaje máximo variación y todo esto depende de la configuración del circuito, ya que la impedancia del capacitor o inductor está en función de la frecuencia
+
+Se determina que El valor de la caída de tensión medida con el multímetro correspondiente al valor eficaz de la caída de tensión media con el osciloscopio.
+
+Aprendimos que  mientras  mayor sea la frecuencia la impedancia capacitiva será menor, y mientras  mayor sea la frecuencia la impedancia inductiva será mayor.
+
+
+# 7. BIBLIOGRAFIA
+
+ANÁLISIS DE CIRCUITOS EN INGENIERÍA, Inductor y Condensador. WH Hayt. Ed. McGraw-Hill, 1993.
+
+ https://www.ingmecafenix.com/electronica/el-capacitor/
+
+https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/capacitor/
+
+Fundamentos de Circuitos Eléctricos. Inductor y Condensador, Charles K. Alexander y Matthew NO Sadiku. McGraw-Hill Companies, Inc.
+
 
 
 
