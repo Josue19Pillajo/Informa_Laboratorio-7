@@ -132,7 +132,7 @@ El capacitor no permite el paso de corriente, por lo tanto  la bobina y el capac
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna? 
 En la bobina en cambio la corriente disminuira y el voltaje aumentara para oponerse a dicha disminucion la corriente varia por lo que hay autoinduccion
 3.- ¿Qué cree usted que ocurriría con el voltaje V0 y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
-
+Los valores de la coriente y voltaje van a variar en cada bobina o capacitor segun su forma de conexion 
 4.- ¿Qué son los valores eficaces de voltaje y corriente? 
 seria el valor que tiene una corriente continua para que produsca  la misma potencia .
 
