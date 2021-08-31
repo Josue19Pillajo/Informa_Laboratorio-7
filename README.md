@@ -138,7 +138,7 @@ seria el valor que tiene una corriente continua para que produsca  la misma pote
 
 # 5. VIDEO
 
-
+https://youtu.be/SccH-_sOKnU
 
 # 6. COCLUSIONES
 
